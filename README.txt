@@ -19,7 +19,7 @@ priority is executed at first and then processes with lower priority are
 executed. If two or more process has similar priority then SJF, FCFS and
 RR is used correspondingly. 
 
-# Sample Input: (Put process name, AT, BT, Priority, time quantum accordingly)
+# Sample Input: (Put process name, AT, BT, Priority, time quantum accordingly) 
 ProcessName ArrivalTime BurstTime Priority
 P0          1           7          3
 P1          2           4          1
