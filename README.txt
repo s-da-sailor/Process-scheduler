@@ -17,6 +17,8 @@ time period.
 • Priority Scheduling (PR): In this function, the one with the highest
 priority is executed at first and then processes with lower priority are
 executed. If two or more process has similar priority then FCFS is chosen.
+This program runs this four functions and determines average waiting time for the 
+giver processes. It also determines the best scheduling algorighm for the given data.
 
 # Sample Input: (Put process name, AT, BT, Priority, time quantum accordingly) 
 ProcessName ArrivalTime BurstTime Priority
